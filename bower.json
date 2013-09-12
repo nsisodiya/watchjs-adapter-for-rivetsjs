@@ -17,6 +17,7 @@
     "tests"
   ],
   "dependencies": {
-    "rivets": "*"
+    "rivets": "*",
+    "watch": "*"
   }
 }
