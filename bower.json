@@ -1,0 +1,22 @@
+{
+  "name": "watchjs-adapter-for-rivetsjs",
+  "repo": "nsisodiya/watchjs-adapter-for-rivetsjs",
+  "description": "Rivets adapter for Watch.Js",
+  "version": "0.0.1",
+  "keywords": [
+    "data binding",
+    "templating"
+  ],
+  "scripts": [
+    "watchjs-adapter-for-rivetsjs.js"
+  ],
+  "main": "watchjs-adapter-for-rivetsjs.js",
+  "license": "MIT",
+  "ignore": [
+    "example",
+    "tests"
+  ],
+  "dependencies": {
+    "rivets": "*"
+  }
+}
