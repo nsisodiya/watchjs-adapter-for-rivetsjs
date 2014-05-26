@@ -1,3 +1,6 @@
+This code is not useful as latest version of rivets.js support all these things without adapter.
+================================================================================================
+
 Rivets adapter for Watch.JS, with deep Level binding
 ====================================================
 
